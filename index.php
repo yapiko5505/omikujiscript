@@ -1,3 +1,3 @@
 <?php
-include_once("omikuji.html");
+include_once('omikuji.html');
 ?>
