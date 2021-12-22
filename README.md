@@ -12,5 +12,6 @@ JavaScriptにて制作のおみくじサイトのサンプルです。
 ## 使用している言語
 HTML/CSS/JavaSCript
 
-##
+## インストール方法について
+そのままomikuji.htmlを開くと閲覧できます。
 
