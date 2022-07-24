@@ -14,5 +14,5 @@ HTML/CSS/JavaScript
 PHPとJavaSCriptの動きの違いを理解するために制作しました。
 
 ## インストール方法について
-そのままomikuji.htmlを開くと閲覧できます。
+そのままブラウザを開くと閲覧できます。
 
