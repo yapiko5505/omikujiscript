@@ -11,6 +11,9 @@ JavaScriptにて動くおみくじサイトのサンプルです。
 
 ## 使用している言語
 HTML/CSS/JavaScript
+
+
+# 制作目的
 PHPとJavaSCriptの動きの違いを理解するために制作しました。
 
 ## インストール方法について
